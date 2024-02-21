@@ -9,10 +9,8 @@ export default function Home() {
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      <!--=================== M A I N ===================-->
+    
       <main class="main">
-         <!--=================== H O M E ===================-->
          <section class="home section" id="home">
             <div class="home_container container grid">
                <img src="assets/img/home-cactus.png" alt="image" class="home_img">
@@ -44,7 +42,6 @@ export default function Home() {
             </div>
          </section>
 
-         <!--=================== N E W S ===================-->
          <section class="new section" id="news">
             <div class="news_container container grid">
                <div class="news_data">
@@ -78,7 +75,6 @@ export default function Home() {
             </div>
          </section>
 
-         <!--==================== SHOP ====================-->
          <section class="shop section" id="shop">
             <h2 class="section_title">
                THE BEST PLANTS
@@ -142,7 +138,6 @@ export default function Home() {
             </div>
          </section>
 
-         <!--==================== CARE ====================-->
          <section class="care section" id="care">
             <h2 class="section_title">
                CARE AND HEALTH FOR<br> YOUR CACTUS
@@ -197,7 +192,6 @@ export default function Home() {
             </div>
          </section>
 
-         <!--==================== CONTACT ====================-->
          <section class="contact section" id="contact">
             <h2 class="section_title">
                YOU WANT A CACTUS <br> CONTACT US
